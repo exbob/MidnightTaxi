@@ -23,7 +23,7 @@ Shadowsocksr 的 Windows 客户端。
 
 Shadowsocks 的 Mac 客户端。
 
-项目地址：<https://github.com/shadowsocksr-backup/ShadowsocksX-NG>
+项目地址：<https://github.com/shadowsocks/ShadowsocksX-NG>
 
 ## SwitchyOmega
 
