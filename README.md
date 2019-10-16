@@ -48,3 +48,21 @@ Shadowsocks 的 Mac 客户端。
 一个单端口全协议解决方案，对付端口白名单用的，一个端口提供所有服务，客户端随意切换。
 
 项目地址：<https://github.com/waylybaye/HyperApp-Guide>
+
+## clash
+
+新一代客户端代理工具，go 语言，天生跨平台，功能强大易用，提供命令行和 RESTful API 。
+
+项目地址：<https://github.com/Dreamacro/clash>
+
+## clash-dashboard
+
+clash 的 web 接口。
+
+项目地址：<https://github.com/Dreamacro/clash-dashboard>
+
+## clash_for_windows_pkg
+
+clash 的 windows GUI 软件。
+
+项目地址：<https://github.com/Fndroid/clash_for_windows_pkg>
