@@ -66,3 +66,9 @@ clash 的 web 接口。
 clash 的 windows GUI 软件。
 
 项目地址：<https://github.com/Fndroid/clash_for_windows_pkg>
+
+## openclash
+
+clash 的 openwrt 客户端
+
+项目地址：<https://github.com/vernesong/OpenClash>
